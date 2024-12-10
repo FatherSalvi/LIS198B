@@ -14,14 +14,18 @@ This project analyzes scam text messages using Natural Language Processing (NLP)
    cd LIS198B
 
 2. Create and activate a virtual environment:
+    ```bash
     python -m venv venv
     source venv/bin/activate  # On macOS/Linux
     .\venv\Scripts\activate   # On Windows
 
 3. Install dependencies:
-    pip install -r requirements.txt #Using Git Bash
+    ```bash
+    pip install -r requirements.txt 
 
 4. Launch Jupyter Notebook:
-    jupyter notebook #Using Git Bash
+    ```bash
+    jupyter notebook 
 
 5. Open the notebook file LIS198B.ipynb to view and execute the code.
+### Note: All code must be entered using Git Bash
