@@ -28,4 +28,3 @@ This project analyzes scam text messages using Natural Language Processing (NLP)
     jupyter notebook 
 
 5. Open the notebook file LIS198B.ipynb to view and execute the code.
-### Note: All code must be entered using Git Bash
